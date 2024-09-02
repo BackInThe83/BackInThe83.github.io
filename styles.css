@@ -1,0 +1,12 @@
+@font-face {
+   font-family: Pixel Emulator;
+   src: url(font/PixelEmulator-xq08.ttf);
+}
+body {
+	font-family: Pixel Emulator;
+	color: white;
+	background-color: #202020;
+}
+.center {
+	text-align: center;
+}
