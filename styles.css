@@ -6,6 +6,10 @@ body {
 	font-family: Pixel Emulator;
 	color: white;
 	background-color: #202020;
+	background-image: url("images/sorry!.png") ;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .center {
 	text-align: center;
